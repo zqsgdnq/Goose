@@ -1,0 +1,25 @@
+﻿  TutorialGame.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(17,1): warning C4005:  '_WINSOCKAPI_': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(17,1): warning C4005: C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp: note: see previous definition of '_WINSOCKAPI_'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(211,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(255,9): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(302,31): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(335,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(346,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(425,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(756,57): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(757,45): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(766,41): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(843,58): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(844,46): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(884,60): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(921,60): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(979,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(988,63): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(989,48): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(1025,57): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(1026,45): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(1080,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(1084,18): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\CSC8503\GameTech\TutorialGame.cpp(1095,23): warning C4018:  '<': signed/unsigned mismatch
+  GameTech.vcxproj -> C:\Users\Admin\Downloads\CSC8503 2019 Download(1)\Win32\Debug\GameTech.exe
