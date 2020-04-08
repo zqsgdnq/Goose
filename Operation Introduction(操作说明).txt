@@ -1,0 +1,22 @@
+It is a simple game of goose^^
+
+Press Q to switch the camera mode:Move or Locked
+
+When the camera is move:
+Keyborad WASD to let the camera go front,back,left and right;
+Shift and Space to go up and down;
+Move Mouse to let the camera rotate;
+
+When the camera is locked:
+Click on the object and use keyboard up,down,right,left to change the orientation of the object and give it force to move in the axis.
+Scroll the mousewheel to change the size of the force;
+
+Something about the gameplay:
+The goose is the player and it start on the island in the middle of the water;
+If the goose collision with the apples,there will be constraints between apple and goose and goose will drag the aplles.
+If the goose collision with water,it will wave and keep changing color;
+If the goose is carrying apples and in a close distance with the keeper,the keeper will chase the goose;When the keeper chase the goose successfully,the apples that the goose is carrying will go back to their intial position.
+If the goose is carrying apples and get the island,the apples will set in the middle of the island and the goose get score(50 scores each apple).
+
+Press P to pause and C to continue,R to restart.
+The game will restart if the player hasn't got all the apples to island in 3 minutes.(The time is shown below the screen)
